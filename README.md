@@ -8,3 +8,4 @@ Created a Dashboard for easy understanding
 Added  slicers to filter through the dashboard
 Added Cards to show real and single facts.
 
+![Dynasty Shipping Dashboard](Dynasty_shipping_dashboard.png)
