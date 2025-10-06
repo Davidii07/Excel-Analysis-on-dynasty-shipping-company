@@ -12,5 +12,5 @@ Added Cards to show real and single facts.
 
 Download the full Excel Dashboard
 The Complete interactive Excel File (with all sheets, pivots, and slicers) can be downloaded here;
-[Download from Google Drive](https://drive.google.com/https://docs.google.com/spreadsheets/d/1s0R4mUvwI9sstVPThPPsdK3XV-8g-Mc_/edit?usp=drive_link&ouid=105453260144100514517&rtpof=true&sd=true)
+[Download from Google Drive](https://docs.google.com/spreadsheets/d/1s0R4mUvwI9sstVPThPPsdK3XV-8g-Mc_/edit?usp=drive_link&ouid=105453260144100514517&rtpof=true&sd=true)
 
